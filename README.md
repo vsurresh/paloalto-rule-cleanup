@@ -1,3 +1,5 @@
+For more information and detailed explanation - https://www.packetswitch.co.uk/trying-to-automate-palo-alto-firewall-objects-rules-cleanup/
+
 # Palo Alto Firewall Object and Rule Cleanup Automation
 
 This repository contains scripts for automating the cleanup of Palo Alto firewall objects and rules. When decommissioning servers or entire subnets, it can be cumbersome to remove associated objects and rules from the firewall manually. This automation script simplifies that process.
